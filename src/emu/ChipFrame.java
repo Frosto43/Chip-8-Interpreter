@@ -23,7 +23,7 @@ public class ChipFrame extends JFrame implements KeyListener {
 		setLayout(new BorderLayout());
 		add(panel, BorderLayout.CENTER);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setTitle("Chip-8 Emulator");
+		setTitle("Chip-8 Emulator - by Frosto43");
 		pack();
 		setVisible(true);
 		
